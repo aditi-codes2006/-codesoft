@@ -1,12 +1,38 @@
-# Simple Calculator in Python
+# CodeSoft Python Tasks
 
-This command-line Python calculator performs basic arithmetic operations: addition, subtraction, multiplication, and division. It's a handy tool for practicing user input, control flow, and error handling.
+This repository contains Python projects completed as part of *CodeSoft's programming task series*. The projects are beginner-friendly and cover basic logic building, user interaction, and randomness in Python.
 
-## How to Run
+## 📌 Task List
 
-1. Make sure Python is installed.
-2. Save the code to a file named `calculator.py`.
-3. Open terminal or command prompt.
-4. Run the program:
+### 🔢 Task 1: Simple Calculator
+A command-line calculator that performs basic arithmetic operations:  
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division (with zero-division check)  
+
+📁 File: calculator.py
+
+### 🔐 Task 2: Password Generator
+Generates a strong password based on user preferences:  
+- Custom password length  
+- Optional inclusion of lowercase, uppercase, digits, and symbols  
+
+📁 File: password_generator.py
+
+### ✊ Task 3: Rock, Paper, Scissors Game
+A classic game where the user plays Rock, Paper, Scissors against the computer.  
+- Tracks scores for each round  
+- Allows repeated gameplay  
+- Displays result after each round  
+
+📁 File: rock_paper_scissors.py
+
+---
+
+## ▶ How to Run
+
+1. Clone the repository:
    ```bash
-   python calculator.py
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
